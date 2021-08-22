@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello, I'm Paweł Niewiarowski,
+I'm beginner developer, I am mainly focused on learning JavaScript and Golang.
 
-<!--
-**PNiewiarowski/PNiewiarowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My favorite technologies:
+* JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+* React: https://reactjs.org/
+* Go: https://golang.org/
 
-Here are some ideas to get you started:
+## Tools that i use:
+* VSCode: https://code.visualstudio.com/
+* WebStorm: https://www.jetbrains.com/webstorm/
+* Hyper: https://hyper.is/
+* Terminal: https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Top languages
+<a href="https://github.com/pniewiarowski/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pniewiarowski&layout=compact" />
+</a>
