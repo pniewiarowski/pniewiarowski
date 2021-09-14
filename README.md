@@ -11,3 +11,6 @@ I'm beginner developer, I am mainly focused on learning JavaScript and Golang.
 * WebStorm: https://www.jetbrains.com/webstorm/
 * Hyper: https://hyper.is/
 * Terminal: https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701
+
+### --------------------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PNiewiarowski)](https://github.com/anuraghazra/github-readme-stats)
