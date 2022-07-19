@@ -1,16 +1,44 @@
-## Hello, I'm Paweł Niewiarowski,
-I'm beginner developer, I am mainly focused on learning JavaScript and Golang.
+## Hello, there...
 
-### My favorite technologies:
-* JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-* React: https://reactjs.org/
-* Go: https://golang.org/
+<p align='center'>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" 
+     width="200" 
+     height="200" 
+     frameBorder="0" 
+     class="giphy-embed" 
+     allowFullScreen
+     ></img>
+</p>
 
-### Tools that i use:
-* VSCode: https://code.visualstudio.com/
-* WebStorm: https://www.jetbrains.com/webstorm/
-* Hyper: https://hyper.is/
-* Terminal: https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701
+<p align="left">
+<a href="https://go.dev/" target="_blank"> 
+  <img src="https://img.shields.io/badge/GO-00599C?style=for-the-badge&logo=GO&logoColor=white" alt="GO"/>
+</a>
 
-### --------------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PNiewiarowski)]
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <img src="https://img.shields.io/badge/JavaScript-00599C?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript"/>
+</a>
+
+<a href="https://www.php.net/" target="_blank"> 
+  <img src="https://img.shields.io/badge/PHP-00599C?style=for-the-badge&logo=PHP&logoColor=white" alt="PHP"/>
+</a>
+
+<a href="https://en.reactjs.org/" target="_blank"> 
+  <img src="https://img.shields.io/badge/React-15152F?style=for-the-badge&logo=React&logoColor=Blue" alt="React"/>
+</a>
+
+<a href="https://svelte.dev/" target="_blank"> 
+  <img src="https://img.shields.io/badge/Svelte-15152F?style=for-the-badge&logo=Svelte&logoColor=White" alt="Svelet"/>
+</a>
+
+<a href="https://expressjs.com/" target="_blank"> 
+  <img src="https://img.shields.io/badge/Express-15152F?style=for-the-badge&logo=Express&logoColor=White" alt="Express"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank"> 
+  <img src="https://img.shields.io/badge/GIT-eeeeff?style=for-the-badge&logo=git&logoColor=black" alt="Git"/> 
+</a>
+
+<a href="https://github.com/" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-eeeeff?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
+</a>
