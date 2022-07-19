@@ -35,10 +35,26 @@
   <img src="https://img.shields.io/badge/Express-15152F?style=for-the-badge&logo=Express&logoColor=White" alt="Express"/>
 </a>
 
+<a href="https://sass-lang.com/" target="_blank">
+  <img src="https://img.shields.io/badge/sass-103?style=for-the-badge&logo=sass&logoColor=White" alt="SASS"/>
+</a>
+
+<a href="https://www.jetbrains.com/" target="_blank">
+  <img src="https://img.shields.io/badge/GoLand-152f15?style=for-the-badge&logo=goland&logoColor=green" alt="GoLand"/>
+</a>
+
+<a href="https://www.jetbrains.com/" target="_blank">
+  <img src="https://img.shields.io/badge/WebStorm-15153f?style=for-the-badge&logo=webstorm&logoColor=blue" alt="WebStorm"/>
+</a>
+
+<a href="https://www.jetbrains.com/" target="_blank">
+  <img src="https://img.shields.io/badge/PhpStorm-2f152f?style=for-the-badge&logo=phpstorm&logoColor=purple" alt="PhpStorm"/>
+</a>
+
 <a href="https://git-scm.com/" target="_blank"> 
-  <img src="https://img.shields.io/badge/GIT-eeeeff?style=for-the-badge&logo=git&logoColor=black" alt="Git"/> 
+  <img src="https://img.shields.io/badge/GIT-eeeeff?style=for-the-badge&logo=git&logoColor=red" alt="Git"/> 
 </a>
 
 <a href="https://github.com/" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-eeeeff?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-eeeeff?style=for-the-badge&logo=github&logoColor=red" alt="GitHub"/>
 </a>
