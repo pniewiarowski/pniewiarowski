@@ -29,6 +29,10 @@
   <img src="https://img.shields.io/badge/sass-2f152f?style=for-the-badge&logo=sass&logoColor=purple" alt="SASS"/>
 </a>
 
+<a href="https://pugjs.org/api/getting-started.html" target="_blank">
+  <img src="https://img.shields.io/badge/PUG-4f2f15?style=for-the-badge&logo=pug&logoColor=orange" alt="PUG"/>
+</a>
+
 <a href="https://www.jetbrains.com/" target="_blank">
   <img src="https://img.shields.io/badge/GoLand-152f15?style=for-the-badge&logo=goland&logoColor=green" alt="GoLand"/>
 </a>
