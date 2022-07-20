@@ -17,6 +17,10 @@
   <img src="https://img.shields.io/badge/React-15152F?style=for-the-badge&logo=React&logoColor=blue" alt="React"/>
 </a>
 
+<a href="https://redux.js.org/" target="_blank"> 
+  <img src="https://img.shields.io/badge/Redux-2f153F?style=for-the-badge&logo=Redux&logoColor=purple" alt="Redux"/>
+</a>
+
 <a href="https://svelte.dev/" target="_blank"> 
   <img src="https://img.shields.io/badge/Svelte-2f1515?style=for-the-badge&logo=Svelte&logoColor=red" alt="Svelet"/>
 </a>
