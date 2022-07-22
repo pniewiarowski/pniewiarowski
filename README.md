@@ -1,4 +1,4 @@
-<img width="100%" alt="Pepe" src="https://th.bing.com/th/id/R.8b3261d8736fe58c7b239d7f38f35993?rik=m5J%2b9d0lDYegDw&pid=ImgRaw&r=0" />
+<img width="100%" alt="Pepe" src="https://blog.jetbrains.com/wp-content/uploads/2021/02/Go_8001611039611515.gif" />
 
 <p align="left">
 <a href="https://go.dev/" target="_blank"> 
