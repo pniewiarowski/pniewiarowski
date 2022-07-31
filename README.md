@@ -13,6 +13,10 @@
   <img src="https://img.shields.io/badge/PHP-15152f?style=for-the-badge&logo=PHP&logoColor=blue" alt="PHP"/>
 </a>
 
+<a href="https://www.python.org/" target="_blank"> 
+  <img src="https://img.shields.io/badge/Python-15152f?style=for-the-badge&logo=Python&logoColor=blue" alt="Python"/>
+</a>
+
 <a href="https://en.reactjs.org/" target="_blank"> 
   <img src="https://img.shields.io/badge/React-15152F?style=for-the-badge&logo=React&logoColor=blue" alt="React"/>
 </a>
