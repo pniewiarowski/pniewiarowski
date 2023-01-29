@@ -65,3 +65,7 @@
   <img src="https://img.shields.io/badge/GitHub-2f1515?style=for-the-badge&logo=github&logoColor=red" alt="GitHub"/>
 </a>
 </p>
+
+<p align="right">
+  <img width="100%" alt="Nulls came from here!!!" src="https://raw.githubusercontent.com/pniewiarowski/pniewiarowski/main/nulls.png" />
+<p/>
