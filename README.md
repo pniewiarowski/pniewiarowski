@@ -66,6 +66,10 @@
 </a>
 </p>
 
+<p align="left">
+    <img width="100%" alt="Nulls came from here!!!" src="https://raw.githubusercontent.com/pniewiarowski/pniewiarowski/main/heading.png" />
+</p>
+
 <p align="right">
   <img width="100%" alt="Nulls came from here!!!" src="https://raw.githubusercontent.com/pniewiarowski/pniewiarowski/main/nulls.png" />
 <p/>
