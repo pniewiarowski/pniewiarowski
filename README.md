@@ -1,4 +1,14 @@
-<img width="100%" alt="Pepe" src="https://blog.jetbrains.com/wp-content/uploads/2021/02/Go_8001611039611515.gif" />
+<p align="left">
+    <img width="100%" alt="Nulls came from here!!!" src="https://raw.githubusercontent.com/pniewiarowski/pniewiarowski/main/heading.png" />
+</p>
+
+<p align="right">
+  <img width="100%" alt="Nulls came from here!!!" src="https://raw.githubusercontent.com/pniewiarowski/pniewiarowski/main/nulls.png" />
+<p/>
+
+<p align="left">
+    <img width="100%" alt="Nulls came from here!!!" src="https://raw.githubusercontent.com/pniewiarowski/pniewiarowski/main/nice.png" />
+</p>
 
 <p align="left">
 <a href="https://go.dev/" target="_blank"> 
@@ -64,16 +74,4 @@
 <a href="https://github.com/" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-2f1515?style=for-the-badge&logo=github&logoColor=red" alt="GitHub"/>
 </a>
-</p>
-
-<p align="left">
-    <img width="100%" alt="Nulls came from here!!!" src="https://raw.githubusercontent.com/pniewiarowski/pniewiarowski/main/heading.png" />
-</p>
-
-<p align="right">
-  <img width="100%" alt="Nulls came from here!!!" src="https://raw.githubusercontent.com/pniewiarowski/pniewiarowski/main/nulls.png" />
-<p/>
-
-<p align="left">
-    <img width="100%" alt="Nulls came from here!!!" src="https://raw.githubusercontent.com/pniewiarowski/pniewiarowski/main/nice.png" />
 </p>
